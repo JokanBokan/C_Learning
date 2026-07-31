@@ -8,17 +8,6 @@ Every project lives in its own folder and comes with a heavily commented `main.c
 
 If you have any questions at all about the code or the comments, please feel free to ask, i'll try to explain as best as i can.
 
-## Structure
-
-Each folder is its own little project, focused on one specific C concept/topic.
-
-```
-C_Learning/
-├── strings/
-│   └── main.c
-└── ...
-```
-
 ## Projects
 
 | Folder | Topic | What it covers |
